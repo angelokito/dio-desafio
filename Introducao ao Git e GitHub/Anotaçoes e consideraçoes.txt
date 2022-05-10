@@ -1,1 +1,4 @@
-Começamos nosso curso com Metodologias ageis e scrum
+Começamos nosso bootcamp Dio, com logica de programação depois Metodologias ageis e scrum
+Em seguida entramos no git e github, link para donwload: https://git-scm.com/downloads
+o git bash é um terminal extendido para otimizar o uso do git.
+Consegui commitar meu "primeiro commit, reinstalei o git e funcionou, obrigado DIO.
